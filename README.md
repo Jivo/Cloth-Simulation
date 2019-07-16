@@ -1,4 +1,4 @@
-# CGRA OpenGL Base Project
+# Compiling and Running
 
 # Requirements
 
